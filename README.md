@@ -5,6 +5,13 @@
 - 🌱 Atualmente estou aprendendo Data Analyst e Machine Learning com Python
 - 🛠 Neste repositório você encontrará atividades acadêmicas desenvolvidas, bem como projetos relacionados a área de dados e finanças.
 
+
+### Cerficações e Cursos
+
+- Introduction to SQL - DataCamp
+- Workshop Power BI para Negócios - Power BI Experience
+- Python para Finanças: Investimentos & Análise de Dados - Udemy
+
 ### Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
