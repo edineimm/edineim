@@ -1,10 +1,6 @@
 ### Olá! Eu sou o Edinei da Motta Martinello
 
 - 📚 Sou estudante de Engenharia de Computação pela UTFPR
-- 💡 Tenho interesse em Data Scientist, Data Analyst, Machine Learning e Data Engineer 
-- 🌱 Atualmente estou aprendendo Data Analyst e Machine Learning com Python
-- 🛠 Neste repositório você encontrará atividades acadêmicas desenvolvidas, bem como projetos relacionados a área de dados e finanças.
-
 
 ### Cerficações e Cursos
 
