@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Edinei da Motta Martinello
 
-- 📚 Sou estudante de Engenharia de Computação pela UTFPR
+- 📚 Sou  Engenheiro de Computação pela UTFPR
 
 ### Cerficações e Cursos
 
